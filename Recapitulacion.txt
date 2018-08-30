@@ -1,0 +1,7 @@
+El dia de hoy jueves 30/08/2018 se realizo un estudio de los pasos en la crecion de una pagina web,
+que concistia en la plantilla de la pagina, el uso de paleta de colores, el nombre de la pagina que sea corto,
+que la pagina tanto la plantilla como el contenido tengan relacion para que sea una pagina armonizada.
+A su ves el posicionamiento de nuestra pagina en un motor de busqueda con la ayuda de las etiqueta H1 y H2
+para que el motor de busqueda posicione bien nuestra pagina!
+
+Tambien se vio un pequeño ejemplo de la instalacion de Debian en la VirtualBox.
