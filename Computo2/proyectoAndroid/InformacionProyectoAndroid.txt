@@ -1,0 +1,5 @@
+¡Pensar en un problema pequeño a resolver que permita registrar en una base de datos!
+
+Para una empresa que brinda X servicio por citas previas; a la empresa le es necesario agendar las citas y tener registro de todos sus clientes, de las visistas que realizo y cual servicio contrato en la cita.
+
+actualizacion 19/09/2018 12:13
