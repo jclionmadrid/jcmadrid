@@ -1,5 +1,9 @@
-¡Pensar en un problema pequeño a resolver que permita registrar en una base de datos!
+Â¡Pensar en un problema pequeÃ±o a resolver que permita registrar en una base de datos!
 
 Para una empresa que brinda X servicio por citas previas; a la empresa le es necesario agendar las citas y tener registro de todos sus clientes, de las visistas que realizo y cual servicio contrato en la cita.
 
 actualizacion 19/09/2018 12:13
+
+La idea del proyecto es automatizar la atencion a los clientes, con la simple realizacion de citas en linea los clientes pueden solicitar la hora en la que quieren ser atendidos y asi la empresa(Nellys Salon) podra tener una base de datos donde llevaran el registro de la informacion completa de los clientes, sus citas solicitas y el servicio que desea.
+
+actualizacion 26/09/2018
