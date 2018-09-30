@@ -1,0 +1,44 @@
+
+
+.row > div
+{
+	padding: 10px;
+	background: #fff;
+	border: 1px solid #fff;
+	
+}
+
+.rowcarousel
+{
+	padding: 10px;
+	background: #492c7f;
+	border: 1px solid #fff;
+}
+
+.img-responsive
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	height: 600px;
+}
+
+.rounded-circle
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 140px;
+	height: 140px;
+}
+
+h1
+{
+	text-align: center;
+}
+
+#precios
+{
+	text-align: right;
+}
